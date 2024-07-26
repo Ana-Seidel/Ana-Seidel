@@ -19,11 +19,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-6a0dad?style=flat&logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-6a0dad?style=flat&logo=discord&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-6a0dad?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-6a0dad?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-6a0dad?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-6a0dad?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-6a0dad?style=flat&logo=github&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-6a0dad?style=flat&logo=visual-studio-code&logoColor=white)
 
