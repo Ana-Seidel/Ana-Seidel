@@ -19,10 +19,14 @@
 
 ![Python](https://img.shields.io/badge/-Python-6a0dad?style=flat&logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-6a0dad?style=flat&logo=discord&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-6a0dad?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## Connect with me
 
-[![Discord](https://img.shields.io/badge/-Discord-DC143C?style=flat&logo=discord&logoColor=white)](https://bit.ly/serverTerminus) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-DC143C?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-mattos-cirilo-95a2a61b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Email](https://img.shields.io/badge/-Email-DC143C?style=flat&logo=gmail&logoColor=white)](mailto:anaafsw1@gmail.com)
-
-𝘐𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘴𝘦𝘦 𝘵𝘩𝘦 𝘣𝘰𝘵 𝘪𝘯 𝘢𝘤𝘵𝘪𝘰𝘯.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-DC143C?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-mattos-cirilo-95a2a61b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Email](https://img.shields.io/badge/-Email-DC143C?style=flat&logo=gmail&logoColor=white)](mailto:anaafsw1@gmail.com)
