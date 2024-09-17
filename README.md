@@ -22,6 +22,7 @@
 ### Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-6a0dad?style=flat&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-6a0dad?style=flat&logo=sqlite&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-6a0dad?style=flat&logo=discord&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-6a0dad?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-6a0dad?style=flat&logo=css3&logoColor=white)
