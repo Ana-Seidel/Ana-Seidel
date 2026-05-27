@@ -33,5 +33,5 @@
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-mattos-cirilo-95a2a61b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analuizacirilo/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anaafsw1@gmail.com)
