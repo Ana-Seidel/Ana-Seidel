@@ -1,6 +1,6 @@
 ## Olá 👋 
 
-🌸 Meu nome é Ana Luiza Seidel e acabei de começar no mundo da programação.
+🌸 Meu nome é Ana Luiza Cirilo e acabei de começar no mundo da programação.
 
 🤖 Desenvolvi um bot do Discord na linguagem Python para uso pessoal. O bot conta com um sistema de boas-vindas, tickets, mensagens programadas e sistema de moderação.
 
@@ -10,7 +10,7 @@
 
 ## Hi there 👋
 
-🌸 My name is Ana Luiza Seidel, and I have just started in the world of programming.
+🌸 My name is Ana Luiza Cirilo, and I have just started in the world of programming.
 
 🤖 I developed a Discord bot in Python for personal use. The bot features a welcome system, tickets, scheduled messages, and moderation system.
 
